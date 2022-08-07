@@ -1,4 +1,4 @@
 a = 5
 b = 6
-
-print(int(a) + int(b))
+c = 7
+print(int(a) + int(b) + int(c))
